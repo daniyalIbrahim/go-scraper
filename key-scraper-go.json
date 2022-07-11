@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "techonomy-labs",
+  "private_key_id": "6b9acdbaca836a21bf97ed9734a725a1297d2e4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChgSg/ceEO/EQB\n08iaZ39lyKVoFpCERPx8Z/71UJezzNjrZq0MGlFE0jOrow/rDEadK0zoc7NgFtVn\nNhq8kYFFXcCzl6dW06S2Ut9jytn2E8wxu1fz+1nQrnN+Srr3EAkswl06WFy0XNCh\nqQsrdVNpZq3sc13viwBoE+J4VAKvtS4wZu65oGq6qm0eIVV5aSYPZ/05ZD09vkPO\nIAE15R+pw05CamIX8Hn9yssMPCXnXGiCNeY3s74VSit8O0AGjLdpFgOCBW9M6vNZ\n+dGaqmEGbDVSa65AJjjFjwNalpyyYxYb+q/zKRVXZo6hqpy4JMoco+LPqoXuMS8X\nR6TDtZidAgMBAAECggEAAYIUBzxwiY2qf95EyleuJ0olOW1DZQz2Ly2I3oj3oBWT\nUBnTDQNhqO967AAf08ntBGZsSqYyGUT8rOIdwYTTW4rs9SgL4Pc5f215w2NgCaGk\nS7bUmXIH1y0+BFR4RsJMZTwGCs1Vq/W7wjW86rQxOqCY5H7QVa8VgYIERG45Clvm\n+u8lB6rRIIAeOUx7LfPu8QREV6EKc92Mv7/J8L+0Vzg46DzvCggeSz4Y2f5NEItF\ni7tTe54E2GNene0NLVL8BKq7YdaBtY+FsZ3kSjVsyRhR38Tpnr9ITCir+0Upt88G\nkrfQ/rgeea+DPd2mLiHP+Jm6micuMLXNCrRHmQkDUwKBgQDUW89PkSqs0cuVbDPN\nfyqt32bcGzv0To+1Bagvxl8PSNqTghJFq41FoXqQIGR2S6/tU0ZjiaGn/YDarmnQ\nB7QN9rCYx2liDRhjeK9LIo2s15wEm2V6yw6SJNc0LG5/e3e5rZjLFN9U/QtCLzeU\nlzn8s2FmICyiPfZpwoP6C4yEGwKBgQDCsel3pcAlSNrTL9roleS1wDXnglvrwaBd\n3acCIN7EiVVwLJQU7McP6qtmaciJFEigHFc4oOjjwABHr8NOOP3MgVWGiMsCPHig\ndD4bX0ZYY1OA88TfhuLsseYB/Okt81oJtCuEHTJaaGZ5Es9PMx3xtQQ1Ebxoxlyw\n7G+kturxpwKBgHuYH7VgeOTyibmiqxe8HpvpvRT36NIM80jZTQTZQLRFo6lcd8QC\nz4sqK4o8wBu1e2P2Jq6CCQsb2OXtwvnnsdy6qheRX/1IP9yM/gEN0EU7i7uGse5g\nxk86j+H2xiz+MDVqGtZ/hGgTinzvvDqINaCkylhE+5VF2Oe+5U8fb53nAoGAHlu1\nhtWOl4G7tVBx9vBggEKfZSD7ilBf3CMSxo8vjT/I1bvtvzGIfJ/f6BE4lr9V77lb\nlFXq2pB2urbaYlkaogfMuTSdSxT4zjQx9vytMF0UiTf5i80xlyzKK6cvCN44POke\nG/SdhGFhESHwt23GDolmRYwlb8T2cRP8+JcZHWMCgYEAydYLM5doUfS6EafE2lTn\nXk1a/1ONcoYv1IEghT1diZ133E4Fp5TDWtY6ClUtjfMUQqqeHu2eWoMrt37JHyoq\nyuG8/W01aEz2XMhtVMJG1IbBsZ1l28zIRciZCLwWGrscxdLmFTjlfFU+W/TrqwFs\nFkaCf1z2dpz8cRDTUHSibuk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "scraper-konto@techonomy-labs.iam.gserviceaccount.com",
+  "client_id": "102350769671200223516",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scraper-konto%40techonomy-labs.iam.gserviceaccount.com"
+}

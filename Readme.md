@@ -1,4 +1,8 @@
-## Simple Website Screenshot or Website 2 Pdf
+## go-scraper
+A scraper built using golang and a scraping library go-rod. it is capable of taking screenshots of websites as a pdf or png format
+    
+
+#### Simple Website Screenshot or Website 2 Pdf
 
 [![Docker](https://github.com/techonomylabs/go-scraper/actions/workflows/deploy-to-cloud-run.yml/badge.svg)](https://github.com/techonomylabs/go-scraper/actions/workflows/deploy-to-cloud-run.yml)
 <img src="https://img.shields.io/github/workflow/status/techonomylabs/go-scraper/Docker?label=GCP%20CLOUD%20RUN"/>
@@ -10,6 +14,11 @@
 
 
 ### Rest api with Go-rod for Webscraping
+There are two http endpoints in this project.
+
+    1. GET /img?url=<url>
+    2. GET /pdf?url=<url>
+Response is application/image or application/pdf depending on the request.
 
 Some usual cli commands to get you going
 
